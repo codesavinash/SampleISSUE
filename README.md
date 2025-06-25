@@ -1,4 +1,4 @@
-# SampleISSUE# SmartChef Recipe App
+# SmartChef Recipe App
 
 ## Description
 SmartChef is a web and mobile app that helps users find recipes based on the ingredients they already have. It’s designed to make cooking at home easier, faster, and more fun — even when you’re not sure what to cook!
